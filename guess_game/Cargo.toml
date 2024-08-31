@@ -1,0 +1,9 @@
+[package]
+name = "guess_game"
+version = "0.1.0"
+authors = ["Burak Selim Senyurt"]
+description = "Girizgah için kullandığımız basit sayı tahmin oyunu"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
