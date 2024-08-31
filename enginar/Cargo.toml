@@ -1,0 +1,8 @@
+[package]
+name = "enginar"
+authors = ["Burak Selim Senyurt"]
+description = "Basit state tabanlı bir oyun motoru yazmaya kalksak temelleri nasıl atardık sorusuna cevap arıyoruz."
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
